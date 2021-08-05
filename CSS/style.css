@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+}
+/* style heder */
+
+
+
+.style-nav .link:hover,
+.style-nav .link:focus {
+color: #2196F3;
+}
+.style-nav .link {
+    color: #212121;
+}
+
+.auth-nav .linknav:hover,
+.auth-nav .linknav:focus {
+    color: #2196F3;
+}
+.auth-nav .linknav {
+    color: #212121;
+}
