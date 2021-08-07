@@ -18,6 +18,14 @@ ul {list-style: none;}
 }
 .web {color: #2196F3;}
 /* logo */
+.style-nav .link-main {
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    color: #2196F3;
+    text-decoration: none;
+    list-style: none;
+}
 .style-nav .link {
     font-size: 14px;
     line-height: 16px;
@@ -166,7 +174,14 @@ color: #FFFFFF;
 .web {
     color: #2196F3;
 }
-
+.style-nav .link-current {
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    color: #2196F3;
+    text-decoration: none;
+    list-style: none;
+}
 .style-nav .link {
     font-size: 14px;
     line-height: 16px;
@@ -178,7 +193,7 @@ color: #FFFFFF;
 .style-nav .link:hover,
 .style-nav .link:focus {
     color: #2196F3;}
-    .auth-nav .linknav {
+    .auth-nav .linknav-port {
         font-size: 14px;
         line-height: 16px;
         font-weight: 500;
