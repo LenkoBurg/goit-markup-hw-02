@@ -75,6 +75,7 @@ ul {list-style: none;}
     height: 50px;
     left: 700px;
     top: 430px;
+    cursor: pointer;
 }
 .button:hover {
 background-color: #2196F3;
@@ -160,6 +161,7 @@ color: #FFFFFF;
 
 
 /* Portfolio */
+
 .logo {
     width: 145px;
     height: 31px;
@@ -221,6 +223,7 @@ color: #FFFFFF;
         font-weight: 500;
         font-size: 16px;
         line-height: 26px;
+        cursor: pointer;
     }
 .button-port:hover {
     background-color: #2196F3;
