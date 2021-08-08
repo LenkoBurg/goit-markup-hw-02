@@ -80,6 +80,7 @@ ul {list-style: none;}
 .button:hover {
 background-color: #2196F3;
 color: #FFFFFF;
+cursor: pointer;
 }
 /* effect button */
 .hero .list {
@@ -228,7 +229,8 @@ color: #FFFFFF;
 .button-port:hover {
     background-color: #2196F3;
     color: #FFFFFF;
-}
+        cursor: pointer;
+    }
 /* buttons portfolio */
 .image-title {
     font-weight: bold;
